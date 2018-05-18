@@ -1,0 +1,466 @@
+shcore.dll loaded successfully
+Found SetProcessDpiAwareness function in shcore.dll
+Decompressing took 0.000000 seconds
+Loaded 869 tagged sprites from sprites folder
+Loaded 226 sound IDs from sounds folder
+Decompressing took 0.008000 seconds
+Loaded 692 animations from animations folder
+Finished loading animation bank in 0.392000 sec
+Object id 793 (The Apocalypse) seen as an apocalypse trigger
+Compressed 1475420 bytes down to 64062
+Compressing took 0.024000 seconds
+Loaded 848 objects from objects folder
+  Auto-generated 471 'used' objects
+  Auto-generated 210 'variable' objects
+Finished loading object bank in 2.669000 sec
+Decompressing took -0.000000 seconds
+Loaded 36 categories from categories folder
+Finished loading category bank in 3.034000 sec
+Compressed 56172 bytes down to 12884
+Compressing took 0.002000 seconds
+Loaded 1201 transitions from transitions folder
+Auto-generated 576 transitions based on categories
+Run 0:  Auto-modified 189 transitions based generic use transitions and auto-added 137 last use generic transitions (38 objects had generic use transitions defined).
+Run 1:  Auto-modified 1 transitions based generic use transitions and auto-added 137 last use generic transitions (38 objects had generic use transitions defined).
+Auto-generated 3158 transitions based on used objects, 50 removed in the process.
+Auto-generated 1009 transitions based on variable objects.
+Frame rate = 9.986020 frames/second
+Using custom server address: wolvencrew.ddns.net:8005
+Sending message to server: KA 0 0#
+Got length 18 message
+SN
+0/200
+63
+30000
+
+Sending message to server: LOGIN roolstar@gmail.com                                                               CA7DF049306883075B9155E100E7A19346E936A5 682B153C77EBB0526C211283799C4768095FDC95#
+Got length 9 message
+ACCEPTED
+
+Got length 26 message
+MC
+32 30 -16 -15
+6342 863
+
+Got map chunk with bin size 6342, compressed size 863
+First chunk isn't too far from center, using 0,0 as our global offset
+Map center = 0,0
+Found starting home marker at -2,4
+Got length 78 message
+PU
+59 351 0 0 0 0 0 0 0 0 -1 0.10 1 0 0 0 14.00 60.00 3.75 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=0, heldOry=0, pX=0, pY=0, heldTransSrcID=-1, holdingString=0
+Got first PLAYER_UPDATE message, our ID = 59
+Got length 6 message
+LN
+59
+
+First map load done
+Starting music at age 14.013267
+clickDestX,Y = -3, -1,  mapX,Y = 29, 31, curX,Y = 0, 0
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE 0 0 -1 -1 -2 -1 -3 -1#
+fixed speed = 0.114904
+Got length 42 message
+PM
+59 0 0 0.910 0.910 0 -1 -1 -2 -1 -3 -1
+
+Got compressed message header:
+CM
+561 201
+
+
+Got length 561 message
+MX
+1 -15 0 30167 -1 -1 -13 4.000000
+-1 -13 0 0 -1
+3 -13 0 30168 -1 1 -13 4.000000
+1 -13 0 0 -1
+10 -9 0 30161 -1 8 -11 4.000000
+8 -11 0 0 -1
+-2 -12 0 30172 -1 1 -9 2.000000
+1 -9 0 0 -1
+7 -11 0 532 -1 9 -9 2.000000
+9 -9 0 0 -1
+-6 -8 0 88 -1
+6 -8 0 30166 -1 4 -6 4.000000
+4 -6 0 0 -1
+9 -6 0 532 -1 7 -6 2.000000
+7 -6 0 0 -1
+5 -2 0 30162 -1 5 -4 4.000000
+5 -4 0 0 -1
+-9 -3 0 198 -1
+-4 10 0 50 -1
+-3 10 0 52 -1
+-4 11 0 51 -1
+-3 11 0 50 -1
+-4 12 0 51 -1
+-3 12 0 50 -1
+-4 13 0 50 -1
+-3 13 0 51 -1
+-2 13 0 50 -1
+-1 13 0 52 -1
+-9 14 0 51 -1
+-4 14 0 52 -1
+-3 14 0 52 -1
+#
+New placement, responsible=-1
+New placement, responsible=-1
+New placement, responsible=-1
+New placement, responsible=-1
+Got length 21 message
+FX
+18 18 0 0 3.75 -1
+
+Our food = 18/18
+Frame rate = 27.654868 frames/second
+clickDestX,Y = -6, -2,  mapX,Y = 26, 30, curX,Y = -3, -1
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -2 -1 -1 -1 -2 -1 -3 -1 -4 -1#
+fixed speed = 0.117045
+Got length 50 message
+PM
+59 -2 -1 1.177 1.177 0 -1 -1 -2 -1 -3 -1 -4 -1
+
+Fade 1 down to -0.062500
+Fade 2 down to -0.062500
+Fade 3 down to -0.062500
+Fade 4 down to -0.062500
+Fade 5 down to -0.062500
+Fade 6 down to -0.062500
+Fade 7 down to -0.062500
+clickDestX,Y = -9, -3,  mapX,Y = 23, 29, curX,Y = -6, -2
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -5 -2 -1 0 -2 0 -3 -1 -4 -1#
+fixed speed = 0.110043
+clickDestX,Y = -8, -2,  mapX,Y = 24, 30, curX,Y = -9, -3
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -5 -2 -1 0 -2 0 -3 0#
+fixed speed = 0.125000
+Got length 24 message
+MC
+32 3 -25 -18
+609 101
+
+Got map chunk with bin size 609, compressed size 101
+Got length 25 message
+MC
+9 27 -25 -15
+1774 267
+
+Got map chunk with bin size 1774, compressed size 267
+Got length 48 message
+PM
+59 -5 -2 1.177 1.177 0 -1 0 -2 0 -3 -1 -4 -1
+
+Got compressed message header:
+CM
+473 180
+
+
+Got length 473 message
+MX
+3 -5 0 30176 -1 5 -7 2.000000
+5 -7 0 0 -1
+-7 0 0 769 -1 -4 3 8.000000
+-4 3 0 0 -1
+3 -15 0 30166 -1 1 -15 4.000000
+1 -15 0 0 -1
+2 -6 0 30180 -1 7 -11 2.000000
+7 -11 0 0 -1
+8 -6 0 30165 -1 6 -8 4.000000
+6 -8 0 0 -1
+5 -11 0 30167 -1 3 -13 4.000000
+3 -13 0 0 -1
+7 -4 0 30180 -1 9 -6 2.000000
+9 -6 0 0 -1
+4 -3 0 30161 -1 5 -2 4.000000
+5 -2 0 0 -1
+1 3 0 769 -1 0 3 8.000000
+0 3 0 0 -1
+12 -9 0 30160 -1 10 -9 4.000000
+10 -9 0 0 -1
+0 -12 0 531 -1 -2 -12 4.000000
+-2 -12 0 0 -1
+#
+Got length 41 message
+PM
+59 -5 -2 0.800 0.800 0 -1 0 -2 0 -3 0
+
+Got length 96 message
+MX
+-3 -18 0 30169 -1 -5 -16 4.000000
+-5 -16 0 0 -1
+-20 -9 0 89 -1
+-25 2 0 576 -1
+-25 3 0 576 -1
+
+New placement, responsible=-1
+Playing 0 pending received messages for 59
+Reached dest 0.139000 seconds early
+Got length 80 message
+PU
+59 351 0 0 0 0 0 0 0 0 -1 0.08 1 0 -8 -2 14.07 60.00 3.75 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=0, heldOry=0, pX=-8, pY=-2, heldTransSrcID=-1, holdingString=0
+clickDestX,Y = -10, -2,  mapX,Y = 43, 32, curX,Y = -8, -2
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -8 -2 -1 0 -2 0#
+fixed speed = 0.125000
+Playing 0 pending received messages for 59
+Reached dest 0.039333 seconds early
+Frame rate = 30.303031 frames/second
+Got length 36 message
+PM
+59 -8 -2 0.533 0.533 0 -1 0 -2 0
+
+Got compressed message header:
+CM
+521 189
+
+
+Got length 521 message
+MX
+12 -11 0 30159 -1 12 -9 4.000000
+12 -9 0 0 -1
+3 -13 0 30166 -1 5 -11 4.000000
+5 -11 0 0 -1
+-4 3 0 769 -1 -7 0 8.000000
+-7 0 0 0 -1
+6 -6 0 30164 -1 8 -6 4.000000
+8 -6 0 0 -1
+1 -13 0 30165 -1 3 -15 4.000000
+3 -15 0 0 -1
+4 -8 0 30179 -1 2 -6 2.000000
+2 -6 0 0 -1
+0 3 0 769 -1 1 3 8.000000
+1 3 0 0 -1
+9 -6 0 30179 -1 7 -4 2.000000
+7 -4 0 0 -1
+2 -4 0 30175 -1 3 -5 2.000000
+3 -5 0 0 -1
+-5 -17 0 30171 -1 0 -12 4.000000
+0 -12 0 0 -1
+-5 -16 0 30168 -1 -3 -18 4.000000
+-3 -18 0 0 -1
+2 -1 0 30160 -1 4 -3 4.000000
+4 -3 0 0 -1
+#
+Got length 81 message
+PU
+59 351 0 0 0 0 0 0 0 0 -1 0.07 1 0 -10 -2 14.11 60.00 3.75 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=0, heldOry=0, pX=-10, pY=-2, heldTransSrcID=-1, holdingString=0
+clickDestX,Y = -14, -2,  mapX,Y = 39, 32, curX,Y = -10, -2
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -10 -2 -1 0 -2 -1 -3 0 -4 0#
+fixed speed = 0.105361
+Got length 48 message
+PM
+59 -10 -2 1.288 1.288 0 -1 0 -2 -1 -3 0 -4 0
+
+Frame rate = 30.147722 frames/second
+Got length 33 message
+MX
+-25 3 0 576 -1
+-25 2 0 576 -1
+
+Got length 81 message
+PU
+59 351 0 0 0 0 0 0 0 0 -1 0.07 1 0 -14 -2 14.15 60.00 3.75 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=0, heldOry=0, pX=-14, pY=-2, heldTransSrcID=-1, holdingString=0
+Got compressed message header:
+CM
+516 193
+
+
+Playing 0 pending received messages for 59
+Reached dest -0.182408 seconds early
+Got length 516 message
+MX
+-5 -19 0 30167 -1 -5 -16 4.000000
+-5 -16 0 0 -1
+8 -4 0 30163 -1 6 -6 4.000000
+6 -6 0 0 -1
+-4 2 0 769 -1 -4 3 8.000000
+-4 3 0 769 -1 0 3 8.000000
+10 -13 0 30158 -1 12 -11 4.000000
+12 -11 0 0 -1
+5 -11 0 30165 -1 3 -13 4.000000
+3 -13 0 0 -1
+2 -5 0 30159 -1 2 -1 4.000000
+2 -1 0 0 -1
+-8 -14 0 30170 -1 -5 -17 4.000000
+-5 -17 0 0 -1
+0 3 0 0 -1
+-1 -15 0 30164 -1 1 -13 4.000000
+1 -13 0 0 -1
+2 -6 0 30178 -1 4 -8 2.000000
+4 -8 0 0 -1
+10 -6 0 30178 -1 9 -6 2.000000
+9 -6 0 0 -1
+0 -6 0 30174 -1 2 -4 2.000000
+2 -4 0 0 -1
+#
+New placement, responsible=-1
+New placement, responsible=-1
+Frame rate = 30.293851 frames/second
+Got length 91 message
+MX
+-3 1 0 769 -1 -4 2 8.000000
+-4 2 0 0 -1
+-3 -21 0 30166 -1 -5 -19 4.000000
+-5 -19 0 0 -1
+
+New placement, responsible=-1
+clickDestX,Y = -12, -2,  mapX,Y = 41, 32, curX,Y = -14, -2
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -14 -2 1 0#
+fixed speed = 0.125000
+clickDestX,Y = -12, -2,  mapX,Y = 41, 32, curX,Y = -13, -2
+DestID = 0
+clickDestX,Y = -12, -2,  mapX,Y = 41, 32, curX,Y = -13, -2
+DestID = 0
+clickDestX,Y = -12, -2,  mapX,Y = 41, 32, curX,Y = -13, -2
+DestID = 0
+clickDestX,Y = -11, -2,  mapX,Y = 42, 32, curX,Y = -13, -2
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -14 -2 1 0 2 1 3 0#
+fixed speed = 0.108064
+Got length 31 message
+PM
+59 -14 -2 0.267 0.267 0 1 0
+
+Got length 39 message
+PM
+59 -14 -2 1.021 1.021 0 1 0 2 1 3 0
+
+clickDestX,Y = -9, -3,  mapX,Y = 44, 31, curX,Y = -11, -2
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -12 -1 1 -1 2 -1 3 -2#
+fixed speed = 0.108064
+Got length 42 message
+PM
+59 -12 -1 1.021 1.021 0 1 -1 2 -1 3 -2
+
+clickDestX,Y = -7, -4,  mapX,Y = 46, 30, curX,Y = -9, -3
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -10 -2 1 -1 2 -2 3 -2#
+fixed speed = 0.115917
+Got length 42 message
+PM
+59 -10 -2 1.021 1.021 0 1 -1 2 -2 3 -2
+
+clickDestX,Y = -5, -6,  mapX,Y = 48, 28, curX,Y = -7, -4
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -8 -4 1 -1 2 -2 3 -2#
+fixed speed = 0.115917
+Got length 41 message
+PM
+59 -8 -4 1.021 1.021 0 1 -1 2 -2 3 -2
+
+Got length 43 message
+MX
+-4 2 0 769 -1 -3 1 8.000000
+-3 1 0 0 -1
+
+Frame rate = 28.113579 frames/second
+clickDestX,Y = -4, -7,  mapX,Y = 49, 27, curX,Y = -5, -6
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -7 -5 1 -1 2 -2 3 -2#
+fixed speed = 0.115917
+Got length 41 message
+PM
+59 -7 -5 1.021 1.021 0 1 -1 2 -2 3 -2
+
+Fade 0 down to 0.937500
+Fade 1 down to -0.062500
+Fade 2 down to -0.062500
+Fade 3 down to -0.062500
+Fade 4 down to -0.062500
+Fade 5 down to -0.062500
+Fade 6 down to -0.062500
+clickDestX,Y = -2, -7,  mapX,Y = 51, 27, curX,Y = -4, -7
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -5 -7 1 0 2 0 3 0#
+fixed speed = 0.125000
+Got length 38 message
+PM
+59 -4 -7 0.800 0.800 0 0 0 1 0 2 0
+
+Playing 0 pending received messages for 59
+Reached dest 0.141000 seconds early
+Got length 80 message
+PU
+59 351 0 0 0 0 0 0 0 0 -1 0.07 1 0 -2 -7 14.29 60.00 3.75 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=0, heldOry=0, pX=-2, pY=-7, heldTransSrcID=-1, holdingString=0
+Got length 129 message
+MX
+2 -4 0 30173 -1 0 -6 2.000000
+0 -6 0 0 -1
+4 -6 0 30177 -1 2 -6 2.000000
+2 -6 0 0 -1
+4 -3 0 30158 -1 2 -5 4.000000
+2 -5 0 0 -1
+
+clickDestX,Y = -1, -7,  mapX,Y = 52, 27, curX,Y = -2, -7
+DestID = 0
+Path found in 0.000000 ms
+Sending message to server: MOVE -2 -7 1 0#
+fixed speed = 0.125000
+Got length 24 message
+MC
+32 4 -17 -22
+819 122
+
+Got map chunk with bin size 819, compressed size 122
+Got length 23 message
+MC
+8 26 7 -18
+1337 177
+
+Got map chunk with bin size 1337, compressed size 177
+Got length 30 message
+PM
+59 -2 -7 0.267 0.267 0 1 0
+
+Playing 0 pending received messages for 59
+Reached dest 0.036667 seconds early
+Got length 230 message
+MX
+5 -20 0 30159 -1 3 -22 4.000000
+3 -22 0 0 -1
+-1 -19 0 30165 -1 -3 -21 4.000000
+-3 -21 0 0 -1
+12 -11 0 30157 -1 10 -13 4.000000
+10 -13 0 0 -1
+9 -7 0 30177 -1 10 -6 2.000000
+10 -6 0 0 -1
+6 -6 0 30162 -1 8 -4 4.000000
+8 -4 0 0 -1
+
+New placement, responsible=-1
+New placement, responsible=-1
+Got length 80 message
+PU
+59 351 0 0 0 0 0 0 0 0 -1 0.07 1 0 -1 -7 14.30 60.00 3.75 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=0, heldOry=0, pX=-1, pY=-7, heldTransSrcID=-1, holdingString=0
+Frame rate = 30.284676 frames/second
+Total received = 4223 bytes (+2028 in headers), total sent = 535 bytes (+832 in headers)
