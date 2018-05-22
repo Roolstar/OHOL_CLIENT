@@ -153,7 +153,10 @@ tabHint "[TAB]"
 
 
 your "YOUR"
+<<<<<<< HEAD
 of "OF"
+=======
+>>>>>>> e6bf9403bd8dc74c9af9262bfbdefdf3e2b695d9
 
 mother "MOTHER"
 son "SON"
