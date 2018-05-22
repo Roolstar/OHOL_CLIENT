@@ -1,0 +1,18 @@
+L4 | Tue May 22 13:03:23 2018 (333 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Tue May 22 13:03:23 2018 (333 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Tue May 22 13:03:23 2018 (397 ms) | general | Freeing sound sprites
+
+L4 | Tue May 22 13:03:23 2018 (402 ms) | general | exiting: freeing frameDrawer
+
+L4 | Tue May 22 13:03:23 2018 (423 ms) | general | exiting: Deleting screen
+
+L4 | Tue May 22 13:03:23 2018 (424 ms) | general | exiting: freeing drawString
+
+L4 | Tue May 22 13:03:23 2018 (425 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Tue May 22 13:03:24 2018 (826 ms) | general | exiting: deleting screenShotPrefix
+
+L4 | Tue May 22 13:03:24 2018 (826 ms) | general | exiting: Done.
+

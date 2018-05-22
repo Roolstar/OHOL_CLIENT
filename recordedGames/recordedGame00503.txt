@@ -1,0 +1,41 @@
+1209039596 seed, 30 fps, 1920x1080, fullScreen=1, version84_mouseSpeed1.000000_musicOff0_musicLoudness0.000000_webRetrySeconds16 42465DEE661C4C80A66BFD33B6F8DBB5EF6ACF88
+2 T 1209039597.209000 mm 1121 539
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+1  kd 27 1121 539
+0  
+0  
+0  
+1  ku 27 1121 539
+0  
+0  
+0  
+0  
+0  
+1  sd 113 1121 539
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+1  kd 37 1121 539
